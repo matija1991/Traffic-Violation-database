@@ -1,0 +1,50 @@
+#homebody{background: url(slike/146863.jpg) no-repeat;
+    margin-top: 250px;
+}
+#homebody label{color: whitesmoke;}
+#homebody h2{color: whitesmoke;
+text-align: center;
+margin-bottom: 50px;}
+#mainbody{background: url(slike/6122.jpg) no-repeat;}
+#logo{width:150px;
+    position: fixed;
+    top: 50px;
+    right: 30px;
+    z-index: -1;
+}
+
+
+
+#tblbck{background-color: white;
+margin-top: 50px;}
+
+#inputbtn, #opcijebtn{
+display: block;
+margin: 40px auto;}
+
+#inputbtn{margin-top: 50px;}
+
+#logoutbtn{
+    text-align: center;
+   }
+
+   #deledit{text-align: center;}
+
+
+   #msg{
+    position: fixed;
+    top:0;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    margin: 0 auto;
+    }
+
+    #h1main{color: whitesmoke;
+    text-align: center;
+margin-top: 180px;}
+
+#qta_field{width: 30px;
+display: block;
+margin: 20px auto;
+margin-top: 5px;}
